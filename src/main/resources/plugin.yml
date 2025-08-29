@@ -1,0 +1,8 @@
+name: GlowPlugin
+version: 1.0
+main: com.example.glow.GlowPlugin
+api-version: 1.21
+commands:
+  glow:
+    description: Toggle glowing effect
+    usage: /glow
